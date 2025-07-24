@@ -35,7 +35,10 @@
 <p align="center">
   <img src="https://github-readme-stats.vercel.app/api?username=curious-anu&show_icons=true&theme=tokyonight&hide_border=true" />
   <br>
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=curious-anu&theme=tokyonight&hide_border=true" />
+  <img src="https://streak-stats.demolab.com/?user=curious-anu&theme=tokyonight&hide_border=true" />
+<br>
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=curious-anu&layout=compact&theme=tokyonight&hide_border=true" />
+
 </p>
 
 ---
