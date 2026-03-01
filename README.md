@@ -1,62 +1,36 @@
-<h1 align="center">Hi, I'm Anusmita 👩‍💻✨</h1>
-<p align="center">
-  <em>Just a girl with stars in her eyes and code in her soul 💫</em><br>
-  🌸 Dreaming, building, and learning - one line of code at a time ✨<br>
-</p>
+# Hi, I'm Anusmita 👋
+
+**Self-taught Developer | Pythonista & Web Automation Enthusiast**
+
+Passionate about making projects that solve real world problems and building intuitive tools for bridging gap between workflows and seamless experience :)
 
 ---
 
-### 🌻 About Me
-- 💡 Self-taught developer & JEE 2026 aspirant  
-- 💻 Loves Python, HTML/CSS, making simple games, and creating magical digital surprises  
-- 🌱 Currently learning DSA, Pygame, js, and contributing to open source  
-- 💖 Passionate about making tech poetic, personal, and powerful
+### 🛠️ Tech Stack
 
----
-## 🛠️ Tech Stack
-![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)
-![MySQL](https://img.shields.io/badge/MySQL-005C84?style=for-the-badge&logo=mysql&logoColor=white)
-![HTML5](https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white)
-![CSS3](https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white) 
-![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black)
-![TailwindCSS](https://img.shields.io/badge/Tailwind_CSS-38B2AC?style=for-the-badge&logo=tailwind-css&logoColor=white)
-![Tkinter](https://img.shields.io/badge/Tkinter-grey?style=for-the-badge&logo=python&logoColor=white)
-![Pygame](https://img.shields.io/badge/Pygame-black?style=for-the-badge&logo=pygame&logoColor=white)
+**Languages & Tools:** ![Python](https://img.shields.io/badge/python-3670A0?style=for-the-badge&logo=python&logoColor=ffdd54) ![JavaScript](https://img.shields.io/badge/javascript-%23323330.svg?style=for-the-badge&logo=javascript&logoColor=%23F7DF1E) ![HTML5](https://img.shields.io/badge/html5-%23E34F26.svg?style=for-the-badge&logo=html5&logoColor=white) ![CSS3](https://img.shields.io/badge/css3-%231572B6.svg?style=for-the-badge&logo=css3&logoColor=white) ![SQL](https://img.shields.io/badge/mysql-%2300f.svg?style=for-the-badge&logo=mysql&logoColor=white)
 
-
+**Frameworks & Libraries:**
+![TailwindCSS](https://img.shields.io/badge/tailwindcss-%2338B2AC.svg?style=for-the-badge&logo=tailwind-css&logoColor=white) ![Tkinter](https://img.shields.io/badge/Tkinter-GUI-blue) ![Flask](https://img.shields.io/badge/flask-%23000.svg?style=for-the-badge&logo=flask&logoColor=white) ![Pygame](https://img.shields.io/badge/pygame-339933?style=for-the-badge)
 
 ---
 
-### 🌟 My Recent Wins
-- 🥹 Contributed to open-source for the first time in a quiz platform! (and my PR got merged!)
-- 🌱 Built a full web-app gift using HTML/CSS/Python(flask backend) & Render deployment
-- 🧠 Solved few LeetCode problems with 100% runtime score
+### 🚀 Featured Projects
+
+* **GitGlide (WIP):** A Python-based automation engine that simplifies Git workflows by handling repository initialization, auto-commits, and intelligent conflict resolution.
+* **A private social care -Tech Initiative:** Developing a comprehensive care-focused web application designed to streamline support systems (currently in private development).
+* **Web App Suite:** Built and deployed multiple full-stack applications using Flask, frontend and modern CSS frameworks.
 
 ---
 
-### 🌈 Let’s Connect!
-🌱 Learning, loving, and living the code-dream!  
-Drop by and say hi , I’m always up for building something beautiful 🌸  
+### ✨ Some wins
 
- 🌐Socials:
- 
-[![Instagram](https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white)](https://instagram.com/curious_anu)
-[![Email](https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:anucosmos99@gmail.com)
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/curious-anu)
+* Contributed to open-source UI/UX components.
+* Engineered a standalone CLI tool for automated repository management.
 
 
+---
 
-<!--
-**curious-anu/curious-anu** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+### 📫 Let's Connect!
 
-Here are some ideas to get you started:
-
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+[LinkedIn](https://www.linkedin.com/in/curious-anu/) | [Email](mailto:anucosmos99@gmail.com) 
